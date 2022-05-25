@@ -1,4 +1,4 @@
-# CRL
+
 
 This is the code about using AssistPG on Reinforcement Learning scenario. To run the code, you need to use conda to install some packages, including:
 
