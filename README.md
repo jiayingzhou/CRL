@@ -58,4 +58,4 @@ The result will be printed during running, you can also open from the saved resu
 
 
 Some experiments on the Lunarlander experiment are displayed for reference.
-![Trace Plot](fig/eng30.pdf "Logo Title Text 1")
+![Trace Plot](/fig/eng30.pdf "Logo Title Text 1")
