@@ -55,3 +55,7 @@ python3 assistPG.py --device='cuda' --assist_round=5 --setting=1 --fl_round=5 --
 python3 assistPG.py --device='cuda' --assist_round=5 --setting=1 --fl_round=5 -- fl_epoch=10 --assist_epoch=10 --episode=32 --epoch=100 --hid_size=4 --iteration=1 -- env_run='cartpole' --play_mode='single'
 
 The result will be printed during running, you can also open from the saved result.
+
+
+Some experiments on the Lunarlander experiment are displayed for reference.
+![Trace Plot](fig/eng30.pdf "Logo Title Text 1")
